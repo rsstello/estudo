@@ -7,3 +7,4 @@ import jakarta.persistence.Table;
 @Table(name = "TB_PARKING_SPOT")
 public class ParkingSpotModel {
 }
+//Make new test
